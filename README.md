@@ -1,8 +1,8 @@
-# Retail Sales Analysis
+# Task Manager Web App
 
-A data analytics project using Python and Pandas to explore seasonal trends and revenue patterns in retail sales data.
+A basic task manager built using Flask. Allows users to add, delete, and mark tasks as completed.
 
-## Key Features
-- Monthly sales aggregation
-- Top product and region identification
-- Visual reports using Matplotlib and Seaborn
+## Features
+- Task list UI
+- SQLite database for persistence
+- Flask backend with Jinja2 templates
